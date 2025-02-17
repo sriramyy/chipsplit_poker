@@ -1,7 +1,22 @@
 
-<img src="[https://github.com/user-attachments/assets/88de8c41-a779-4421-8dac-94645edff584](https://github.com/user-attachments/assets/02357d50-53ff-4aa1-9db4-f7f34888a386)" alt="" style="width:50%; height:auto;">
-
+<img src="https://github.com/user-attachments/assets/1382741a-db32-4336-b7b4-ce963985cb67" alt="" style="width:50%; height:auto;">
 
 # ChipSplit
+
+At the end of a Poker game, ChipSplit will automatically compute the optimal way for everyone to transfer money with the least amount of transactions.
+
+- Application utilizes recursion techniques to optimize Poker transactions at end of game to the least possible amount of transactions utilizing an intuitive and user-friendly UI with custom animations to enhance user experience
+
+**NOTE: Photos and logos no longer display properly in the app**
+**NOTE: Application has not been tested in a while so reliability/stability is not guaranteed** 
+
+## Android Emulator (Pixel) Photos
+Utilized an Android emulator to test and enhance reliability.
+
+<img src="https://github.com/user-attachments/assets/ae0f303b-c17a-49ca-b926-73d1dc3235c4" alt="" style="width:25%; height:auto;">
+
+<img src="https://github.com/user-attachments/assets/f879f126-5a12-4da4-b7d3-384711bf653c" alt="" style="width:25%; height:auto;">
+
+<img src="https://github.com/user-attachments/assets/30698c2f-6ecc-4887-b506-f4870c38d980" alt="" style="width:25%; height:auto;">
 
 
