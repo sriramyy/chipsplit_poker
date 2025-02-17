@@ -5,7 +5,7 @@
 
 At the end of a Poker game, ChipSplit will automatically compute the optimal way for everyone to transfer money with the least amount of transactions.
 
-- Application utilizes recursion techniques to optimize Poker transactions at end of game to the least possible amount of transactions utilizing an intuitive and user-friendly UI with custom animations to enhance user experience
+Application utilizes recursion techniques to optimize Poker transactions at end of game to the least possible amount of transactions utilizing an intuitive and user-friendly UI with custom animations to enhance user experience
 
 **NOTE: Photos and logos no longer display properly in the app**
 
