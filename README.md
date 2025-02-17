@@ -11,10 +11,10 @@ Application utilizes recursion techniques to optimize Poker transactions at end 
 
 **NOTE: Application has not been tested in a while so reliability/stability is not guaranteed** 
 
-### File Instructions
+## File Instructions
 All code placed into `main.dart`. Code reliability is not guarenteed. 
 
-### Android Emulator (Pixel) Photos
+## Android Emulator (Pixel) Photos
 Utilized an Android emulator to test and enhance reliability.
 
 <img src="https://github.com/user-attachments/assets/ae0f303b-c17a-49ca-b926-73d1dc3235c4" alt="" style="width:25%; height:auto;">
